@@ -1,0 +1,12 @@
+print("¿what is your name")
+name = input()
+print("¿what is your lastname")
+lastname = input()
+print("your name us {} {}".format(name, lastname))
+print("input a ")
+a = input()
+
+print("input b")
+b = input()
+sum = float(a) + float(b)
+print("the sum {} + {} ={} ".format(a, b, sum))
